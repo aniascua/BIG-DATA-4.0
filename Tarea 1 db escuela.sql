@@ -1,5 +1,3 @@
--- Active: 1680480230778@@127.0.0.1@3306@db_escuelas
-
 /*
 Ejercicios para Consultas en SQL CON LA DB ESCUELAS (tarea MySQL 2)
 SINTAXIS BÁSICA: SELECT…FROM + USO DE WHERE, AND, OR, BETWEEN
