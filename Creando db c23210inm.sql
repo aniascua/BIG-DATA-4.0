@@ -54,4 +54,4 @@ INSERT INTO inquilinos VALUES
 (145874598, "Roberto", "Gallo", "Casa esposa", 245),
 (254786521, "Julia", "Antuñez", "Seguro caución", 542),
 (256353212, "Sergio", "Falvera", "Dpto familiar", 221),
-(357845213, "Lucas", "Astudillo", "Dpto familiar", 478);
+(357845213, "Lucas", "Astudillo", "Dpto familiar", 478); 
