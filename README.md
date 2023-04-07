@@ -7,4 +7,6 @@ Los módulos incluyen procesamiento, análisis, visualización, aprendizaje auto
 - Spark 
 - MongoDB
 
-Está dirigido a personas con experiencia en programación y matemáticas y les proporciona habilidades útiles para trabajar en diferentes sectores.
+Está dirigido a personas con experiencia en programación y proporciona habilidades útiles para trabajar en diferentes sectores. 
+
+En el curso también se enseña a crear aplicaciones que puedan interactuar con una base de datos usando Python, así como filtrar datos en Google Sheets y Looker Studio de Google para analizar y visualizar información de manera efectiva.
